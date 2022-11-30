@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aniket Hundre
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me anikethundre07@gmail.com
 
 <!---
